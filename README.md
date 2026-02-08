@@ -65,5 +65,3 @@ wINDOWS-26918-SHYAKA-BILLY/
 
 
 
-CONCLUSION
-This project demonstrates how relational databases and advanced SQL analytics can transform raw transaction data into actionable business insights.
